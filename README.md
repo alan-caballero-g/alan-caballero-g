@@ -17,6 +17,23 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Matplotib](https://img.shields.io/badge/Matplotib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+# 📊 GitHub Stats:
+
+<p align="center">
+<a href="#">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-caballero-g&theme=algolia&hide_progress=true"/>
+ 
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alan-caballero-g&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="#">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alan-caballero-g&theme=algolia&hide_border=false"/>
+</a>
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alan-caballero-g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
