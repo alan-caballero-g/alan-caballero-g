@@ -1,4 +1,4 @@
-✨✨⚡  
+⚡  
 ¡Hola! Mi nombre es Alan Eduardo Caballero García, soy un ingeniero industrial apasionado por el análisis de datos, disfruto de encontrar información valisoa entre millones de datos. Tengo 26 años y toda mi vida he radicado en México, estoy entusiasmado por aplicar mis habilidades de análisis de datos. Me encuentro buscando oportunidades para participar en proyectos que sean desafiantes y fomenten la colaboración. 🌟
 
 Mi meta es desarrollarme en el ámbito del análisis de datos, utilizando mis competencias en big data para generar ideas que respalden decisiones estratégicas.
