@@ -33,10 +33,6 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 </a>
 </p>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alan-caballero-g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Quote
 ---
 <p align="center">
