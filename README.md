@@ -24,7 +24,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 ---
 <p align="center">
   <a href="#">
-  <img height="180em" src="https://gist.github.com/natebass/b0a548425a73bdf8ea5c618149fe1fce/api?type=horizontal&theme=radical"/>
+  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai"/>
 </a>
 </p>
 
