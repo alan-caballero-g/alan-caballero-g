@@ -47,4 +47,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 </a>
 </p>
 
- 
+
+
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg"> 
