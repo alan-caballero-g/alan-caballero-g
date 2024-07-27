@@ -7,6 +7,12 @@ Durante mi carrera, he adquirido experiencia en análisis de información, manej
 
 Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadores. Si te encuentras en búesqueda de un colaborador proactivo y apasionado por el data analysis, ¡contáctame! 
 
+* :e-mail: alan.ed.caballero@gmail.com
+
+* :iphone: +52 55 8335 0031
+
+
+
   🖥️ Te Invito a ver mis repositorios en donde encontraras todo tipo de proyectos interesantes con una breve descripción para cada uno de ellos.
 
 
