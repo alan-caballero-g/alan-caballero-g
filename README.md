@@ -15,6 +15,7 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 
   🖥️ Te Invito a ver mis repositorios en donde encontraras todo tipo de proyectos interesantes con una breve descripción para cada uno de ellos.
 
+![](https://komarev.com/ghpvc/?username=alan-caballero-g)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-eduardo-caballero-garcía)
@@ -47,7 +48,3 @@ Estoy entusiasmado por contribuir al éxito de tu equipo en proyectos innovadore
 </a>
 </p>
 
-
-
-## 📊 My stats
-<img align="center" width="600" alt="Data" src="general.svg"> 
